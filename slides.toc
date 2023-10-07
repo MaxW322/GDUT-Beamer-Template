@@ -1,0 +1,5 @@
+\beamer@sectionintoc {2}{图片与枚举示例}{3}{0}{1}
+\beamer@sectionintoc {3}{公式显示示例 Vector in Geometry}{8}{0}{2}
+\beamer@sectionintoc {4}{公式显示示例 Determinant in Geometry}{11}{0}{3}
+\beamer@sectionintoc {5}{公式显示示例 Eigenvalue in Geometry}{16}{0}{4}
+\beamer@sectionintoc {6}{参考文献示例 Refference}{23}{0}{5}
