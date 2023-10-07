@@ -9,7 +9,8 @@
 %导入一些用到的宏包
 \usepackage{amsmath,bm,amsfonts,amssymb,enumerate,epsfig,bbm,calc,color,ifthen,capt-of,multimedia,hyperref}
 \usepackage{ctex} %导入中文包
-% \setCJKmainfont{SimHei} %字体可采用黑体  Microsoft YaHei
+\setCJKmainfont{SimHei} %字体可采用黑体  Microsoft YaHei
+% \setCJKmainfont{FandolKai} %Overleaf中字体只能这条，采用楷体等见overleaf字体说明
 
 \usetheme{Berlin} %主题
 \usecolortheme{sustech} %主题颜色
@@ -30,8 +31,9 @@
 \usetikzlibrary{intersections,through}
 \usetikzlibrary{decorations.pathreplacing}
 
-\setsansfont{Microsoft YaHei} %可设置非衬线字体采用黑体  Microsoft YaHei
-\setmainfont{Times New Roman}
+\setsansfont{Microsoft YaHei} %设置非衬线字体采用黑体  Microsoft YaHei
+% \setsansfont{SimHei} %可设置非衬线字体
+\setmainfont{Times New Roman} %设置英文字体采用 Times New Roman，overleaf中有效，其他可能需要将上方非衬线字体设置删除
 
 \definecolor{mygreen}{rgb}{0,0.6,0}
 \definecolor{mymauve}{rgb}{0.58,0,0.82}
@@ -42,8 +44,8 @@
 %题目，作者，学校，日期
 \title{演示报告 \quad(内容为示例简述特征向量)}
 \subtitle{\fontsize{9pt}{14pt}\textbf{标题小字 \quad(示例全英，可自行修改为中文)}}
-\author{王熠 \quad Max Wang \quad \newline \newline \fontsize{6pt}{10pt}数学与统计学院}
-\institute{\fontsize{6pt}{10pt}Guangdong University of Tech.}
+\author{Yi Wang(姓名)  \newline \newline \fontsize{6pt}{10pt}数学与统计学院}
+\institute{\fontsize{6pt}{10pt}广东工业大学 \newline Guangdong University of Tech.}
 \date{\today}
 
 % 学校Logo

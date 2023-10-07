@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.16)  7 OCT 2023 16:35
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.16)  7 OCT 2023 17:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -802,7 +802,34 @@ Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 
 )) (d:/Program/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
-) (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamerthemeBerlin.sty (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty) (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty)) (./beamercolorthemesustech.sty) (d:/Program/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+)
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault' (SimSun(0)).
+
+
+Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
+(fontspec)             options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+(d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamerthemeBerlin.sty (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty) (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (d:/Program/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty)) (./beamercolorthemesustech.sty) (d:/Program/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
@@ -1099,31 +1126,21 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 10.0pt
-(hyperref)                replaced by space on input line 45.
+(hyperref)                removing `\newline' on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\newline' on input line 47.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.0pt
-(hyperref)                replaced by space on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\newline' on input line 45.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\newline' on input line 45.
+(hyperref)                replaced by space on input line 63.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.0pt
-(hyperref)                replaced by space on input line 61.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 10.0pt
-(hyperref)                replaced by space on input line 61.
+(hyperref)                replaced by space on input line 63.
 
 
 Package fontspec Info: Could not resolve font "Microsoft YaHei Bold/I" (it
@@ -1154,26 +1171,26 @@ Package fontspec Info: Font family 'MicrosoftYaHei(1)' created for font
 (./slides.aux)
 \openout1 = `slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1208,7 +1225,7 @@ LaTeX Font Info:    ... okay on input line 61.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 61.
+Package hyperref Info: Link coloring OFF on input line 63.
 (d:/Program/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (d:/Program/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1218,9 +1235,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count429
 )
-LaTeX Info: Redefining \ref on input line 61.
-LaTeX Info: Redefining \pageref on input line 61.
-LaTeX Info: Redefining \nameref on input line 61.
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
 (./slides.out) (./slides.out)
 \@outlinefile=\write6
 \openout6 = `slides.out'.
@@ -1228,37 +1245,37 @@ LaTeX Info: Redefining \nameref on input line 61.
 \symnumbers=\mathgroup9
 \sympureletters=\mathgroup10
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 61.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 63.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 63.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/MicrosoftYaHei(0)/m/n on input line 61.
+(Font)                  OT1/cmss/m/n --> TU/MicrosoftYaHei(0)/m/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/MicrosoftYaHei(0)/m/n on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 61.
+(Font)                  OT1/cmss/bx/n --> TU/MicrosoftYaHei(0)/m/n on input line 63.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 61.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/m/it on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 61.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/m/it on input line 63.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 61.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 61.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 63.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 61.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 63.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/b/it on input line 61.
+(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/b/it on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 61.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 61.
+(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/MicrosoftYaHei(0)/m/n --> TU/MicrosoftYaHei(0)/b/n on input line 61.
+(Font)                  TU/MicrosoftYaHei(0)/m/n --> TU/MicrosoftYaHei(0)/b/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/b/it on input line 61.
+(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/b/it on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/pcr/m/n --> TU/pcr/b/n on input line 61.
+(Font)                  TU/pcr/m/n --> TU/pcr/b/n on input line 63.
 (d:/Program/texlive/2022/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (d:/Program/texlive/2022/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1280,60 +1297,60 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup11
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 61.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 61.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 61.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 61.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 61.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 61.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 61.
-LaTeX Font Info:    Redeclaring math accent \check on input line 61.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 61.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 61.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 61.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 61.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 63.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 63.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 63.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 63.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 63.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 63.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 63.
+LaTeX Font Info:    Redeclaring math accent \check on input line 63.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 63.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 63.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 63.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 63.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 61.
+(Font)              `operators' in the math version `normal' on input line 63.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 61.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 63.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 61.
+(Font)              `operators' in the math version `bold' on input line 63.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 61.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 63.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 61.
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 61.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 63.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/m/it on input line 61.
+(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/m/it on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 61.
+(Font)                  TU/TimesNewRoman(0)/b/n --> TU/TimesNewRoman(0)/b/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  TU/MicrosoftYaHei(0)/m/n --> TU/MicrosoftYaHei(0)/m/n on input line 61.
+(Font)                  TU/MicrosoftYaHei(0)/m/n --> TU/MicrosoftYaHei(0)/m/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  TU/pcr/m/n --> TU/pcr/m/n on input line 61.
+(Font)                  TU/pcr/m/n --> TU/pcr/m/n on input line 63.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 61.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/b/it --> TU/TimesNewRoman(0)/b/it on input line 61.
+(Font)                  TU/TimesNewRoman(0)/b/it --> TU/TimesNewRoman(0)/b/it on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/MicrosoftYaHei(0)/b/n --> TU/MicrosoftYaHei(0)/b/n on input line 61.
+(Font)                  TU/MicrosoftYaHei(0)/b/n --> TU/MicrosoftYaHei(0)/b/n on input line 63.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/pcr/b/n --> TU/pcr/b/n on input line 61.
+(Font)                  TU/pcr/b/n --> TU/pcr/b/n on input line 63.
 \c@lstlisting=\count430
 (./slides.nav)
-Overfull \hbox (53.24695pt too wide) detected at line 61
+Overfull \hbox (53.24695pt too wide) detected at line 63
   [] [][] [][][][] [][][][] [][][][][][] [][][][][][][][] [][][][]  
  []
 
@@ -1408,7 +1425,7 @@ File: fig/gaodai.jpg Graphic file (type bmp)
 File: fig/gaodai_mat.jpg Graphic file (type bmp)
 <fig/gaodai_mat.jpg>
 
-Overfull \hbox (3.71558pt too wide) in paragraph at lines 89--89
+Overfull \hbox (3.71558pt too wide) in paragraph at lines 91--91
 [][] 
  []
 
@@ -1432,11 +1449,11 @@ Overfull \hbox (53.24695pt too wide) has occurred while \output is active
 [8
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 118.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120.
 (d:/Program/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 118.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120.
 (d:/Program/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -1490,12 +1507,12 @@ Overfull \hbox (53.24695pt too wide) has occurred while \output is active
 [13
 
 ]
-Overfull \hbox (8.91348pt too wide) in paragraph at lines 387--387
+Overfull \hbox (8.91348pt too wide) in paragraph at lines 389--389
 []  
  []
 
 
-Overfull \vbox (17.48944pt too high) detected at line 387
+Overfull \vbox (17.48944pt too high) detected at line 389
  []
 
 File: ./fig/logo.png Graphic file (type bmp)
@@ -1508,7 +1525,7 @@ Overfull \hbox (53.24695pt too wide) has occurred while \output is active
 [14
 
 ]
-Overfull \hbox (8.91348pt too wide) in paragraph at lines 441--441
+Overfull \hbox (8.91348pt too wide) in paragraph at lines 443--443
 []  
  []
 
@@ -1552,7 +1569,7 @@ Overfull \hbox (53.24695pt too wide) has occurred while \output is active
 [18
 
 ]
-Overfull \hbox (7.44664pt too wide) in paragraph at lines 616--616
+Overfull \hbox (7.44664pt too wide) in paragraph at lines 618--618
 [][]  
  []
 
@@ -1667,11 +1684,11 @@ Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: 1F6DDD49AF18449A9E631D803832C48D;956.
  ) 
 Here is how much of TeX's memory you used:
- 36094 strings out of 478126
- 789762 string characters out of 5852467
- 1206939 words of memory out of 5000000
- 55928 multiletter control sequences out of 15000+600000
- 476149 words of font info for 102 fonts, out of 8000000 for 9000
+ 36101 strings out of 478126
+ 789862 string characters out of 5852467
+ 1207078 words of memory out of 5000000
+ 55931 multiletter control sequences out of 15000+600000
+ 476165 words of font info for 104 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  99i,20n,104p,425b,889s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
