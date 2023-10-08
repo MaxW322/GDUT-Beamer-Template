@@ -11,4 +11,4 @@
 
 大概样式如下
 
-<img alt="sample" src="https://github.com/MaxW322/GDUT-Beamer-Template/blob/79a60c0006d2e28fd3e2e93579a0736c90f070c3/fig/sample.png">
+<img alt="sample" src="https://github.com/MaxW322/GDUT-Beamer-Template/blob/437987e100d243624d7b35d3f9e7cfa5aac0e986/fig/sample.png">
