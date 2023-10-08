@@ -7,6 +7,7 @@
 - Overleaf 中默认字体楷体，使用其他字体查看 [Overleaf 关于可使用字体的说明](https://cn.overleaf.com/learn/latex/Questions/Which_OTF_or_TTF_fonts_are_supported_via_fontspec%3F#Chinese)，并修改对应 `\setCJKmainfont{FandolKai}`
 - 设置非衬线字体采用黑体`\setsansfont{Microsoft YaHei}`
 - 设置英文字体采用 Times New Roman，overleaf中有效，其他可能需要将上方非衬线字体设置删除`\setmainfont{Times New Roman} `
+- 默认每张的比例为 4:3
 
 大概样式如下
 
