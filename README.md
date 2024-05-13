@@ -21,3 +21,10 @@
 大概样式如下
 
 <img alt="sample" src="https://github.com/MaxW322/GDUT-Beamer-Template/blob/437987e100d243624d7b35d3f9e7cfa5aac0e986/fig/sample.png">
+
+## 主题可以自行修改（修改主题不会影响颜色设定）
+- 无导航栏：default、boxes、Bergen、Pittsburgh、Rochester
+- 带顶部导航栏：Antibes、Darmstadt、Frankfurt、JuanLesPins、Montpellier、Singapore
+- 带底部导航栏：Boadilla、Madrid
+- 带顶部和底部导航栏：AnnArbor、Berlin、CambridgeUS、Copenhagen、Dresden、Ilmenau、Luebeck、Malmoe、Szeged、Warsaw
+- 带侧边栏：Berkeley、Goettingen、Hannover、Marburg、PaloAlto
